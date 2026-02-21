@@ -1,12 +1,12 @@
 # Hi there, I'm Osamah! 👋 
 
-### 🛡️ Cybersecurity Student & AI Automation Enthusiast
+### 🛡️ Computer Science Student & AI Automation Enthusiast
 I am a **Computer Science (Cybersecurity)** student at Albukhary International University with a **3.65 CGPA** and 5x Dean's List awards.I specialize in building secure, AI-driven solutions and managing complex network infrastructures.
 
-- 🔭 **Currently Working On:** LLM-Powered Automated Exploit Generators with safety controls. [cite: 49, 50]
-- 🛡️ **Specializations:** Penetration Testing, Network Security, and AI Integration. [cite: 13, 17, 18]
-- 🏆 **Achievements:** 2nd Place in University CTF (Team Sudoers) & Top 22% in Hawkers Initial CTF 2026. [cite: 70, 71]
-- 💬 **Ask me about:** Python automation, Cisco networking, or LLM agentic workflows. [cite: 18, 19, 33]
+- 🔭 **Currently Working On:** LLM-Powered Automated Exploit Generators with safety controls.
+- 🛡️ **Specializations:** Penetration Testing, Network Security, and AI Integration.
+- 🏆 **Achievements:** 2nd Place in University CTF (Team Sudoers) & Top 22% in Hawkers Initial CTF 2026. 
+- 💬 **Ask me about:** Python automation, Cisco networking, or LLM agentic workflows.
 
 ---
 
