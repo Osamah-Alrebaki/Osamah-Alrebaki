@@ -4,7 +4,7 @@
 I am a **Computer Science (Cybersecurity)** student at Albukhary International University with a **3.65 CGPA** and 5x Dean's List awards.I specialize in building secure, AI-driven solutions and managing complex network infrastructures.
 
 - 🔭 **Currently Working On:** LLM-Powered Automated Exploit Generators with safety controls.
-- 🛡️ **Specializations:** Penetration Testing, Network Security, and AI Integration.
+- 🛡️ **Specializations:** Network Security & Architecture ,AI Integration , and IT Support.
 - 🏆 **Achievements:** 2nd Place in University CTF (Team Sudoers) & Top 22% in Hawkers Initial CTF 2026. 
 - 💬 **Ask me about:** Python automation, Cisco networking, or LLM agentic workflows.
 
